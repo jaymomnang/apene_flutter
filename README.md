@@ -1,2 +1,2 @@
 # apene_flutter
-The Flutter UI for Apene Services
+The flutter UI for Apene Accounting Services
