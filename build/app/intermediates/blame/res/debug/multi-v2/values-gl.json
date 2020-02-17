@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Projects\\samples\\platform_design\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl\\values-gl.xml",
+            "outputFile": "C:\\Projects\\apene_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl\\values-gl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\meet_\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\52a6ad501246acacfdd4c97248bd4367\\res\\values-gl\\values-gl.xml",
