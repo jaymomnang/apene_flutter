@@ -88,7 +88,7 @@ class SongDetailTab extends StatelessWidget {
     return CupertinoPageScaffold(
       navigationBar: CupertinoNavigationBar(
         middle: Text(song),
-        previousPageTitle: 'Songs',
+        previousPageTitle: 'Apene',
       ),
       child: _buildBody(),
     );
